@@ -1,6 +1,6 @@
 # Splitter
 
-> We're a team of Honors students at the Eindhoven University of Technology comitted to increasing the adoption of green hydrogen through increased tooling.
+> We're a team of Honors students at the Eindhoven University of Technology comitted to increasing the adoption of green hydrogen through effective tooling.
 
 ## The Problem
 
